@@ -2,4 +2,4 @@
 
 [ Program ] T-sum Data Analysis Mentoring
 
->> Data Analysis Practice for Office Workers with Python
+> *Data Analysis Practice for Office Workers with Python*
